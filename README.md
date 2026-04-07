@@ -110,6 +110,6 @@ Tests focus on critical logic:
 ## Trade-offs and design decisions
 
 - Chose a lightweight standard-library-first approach (no pandas) to keep dependencies small and logic explicit.
-- Implemented retries for transient failures (timeouts, connection issues, 429/5xx).
+- Implemented retries for transient failures (timeouts and connection issues).
 - Kept output as JSON + CSV via CLI for easy downstream consumption and reproducibility.
 - Prioritized readability and modular boundaries (ingestion vs business logic vs interface).
