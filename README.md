@@ -32,6 +32,8 @@ This repository implements a small Python data service that:
 1. Create and activate a virtual environment.
 2. Install dependencies.
 
+macOS / Linux:
+
 ```bash
 cd "/Users/cindylow/Documents/Wellmatch_CaseStudy_Cindy"
 python3 -m venv .venv
@@ -41,13 +43,53 @@ pip install pytest
 cp .env.example .env
 ```
 
+Windows (PowerShell):
+
+```powershell
+cd "C:\path\to\Wellmatch_CaseStudy_Cindy"
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+pip install pytest
+Copy-Item .env.example .env
+```
+
+Windows (CMD):
+
+```bat
+cd C:\path\to\Wellmatch_CaseStudy_Cindy
+python -m venv .venv
+.venv\Scripts\activate.bat
+pip install -r requirements.txt
+pip install pytest
+copy .env.example .env
+```
+
 ## Run
+
+macOS / Linux:
 
 ```bash
 PYTHONPATH=src python3 -m wellbeing_pipeline.main --pretty
 ```
 
+Windows (PowerShell):
+
+```powershell
+$env:PYTHONPATH="src"
+python -m wellbeing_pipeline.main --pretty
+```
+
+Windows (CMD):
+
+```bat
+set PYTHONPATH=src
+python -m wellbeing_pipeline.main --pretty
+```
+
 Example with explicit options:
+
+macOS / Linux:
 
 ```bash
 PYTHONPATH=src python3 -m wellbeing_pipeline.main \
@@ -61,6 +103,24 @@ PYTHONPATH=src python3 -m wellbeing_pipeline.main \
   --top-n 5 \
   --json-output output/json/wellbeing_analysis.json \
   --csv-dir output/csv \
+  --pretty
+```
+
+Windows (PowerShell):
+
+```powershell
+$env:PYTHONPATH="src"
+python -m wellbeing_pipeline.main `
+  --database-id WB_WDI `
+  --indicator-map life_expectancy=WB_WDI_SP_DYN_LE00_IN `
+  --indicator-map gdp_per_capita=WB_WDI_NY_GDP_PCAP_CD `
+  --indicator-map health_expenditure_per_capita=WB_WDI_SH_XPD_CHEX_PC_CD `
+  --countries GBR,USA,DEU,SWE,CHN `
+  --time-from 2018 `
+  --time-to 2024 `
+  --top-n 5 `
+  --json-output output/json/wellbeing_analysis.json `
+  --csv-dir output/csv `
   --pretty
 ```
 
