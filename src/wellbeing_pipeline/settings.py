@@ -40,7 +40,7 @@ TIME_PERIOD_TO = "2024"
 
 # Output defaults
 TOP_N = 5
-DEFAULT_JSON_OUTPUT = "output/wellbeing_analysis.json"
+DEFAULT_JSON_OUTPUT = "output/json/wellbeing_analysis.json"
 DEFAULT_CSV_DIR = "output/csv"
 
 

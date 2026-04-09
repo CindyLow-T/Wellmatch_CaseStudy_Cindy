@@ -59,13 +59,13 @@ PYTHONPATH=src python3 -m wellbeing_pipeline.main \
   --time-from 2018 \
   --time-to 2024 \
   --top-n 5 \
-  --json-output output/wellbeing_analysis.json \
+  --json-output output/json/wellbeing_analysis.json \
   --csv-dir output/csv \
   --pretty
 ```
 
 The command writes:
-- JSON output (default: `output/wellbeing_analysis.json`)
+- JSON output (default: `output/json/wellbeing_analysis.json`)
 - CSV bundle (default folder: `output/csv`)
 - Each output includes both `indicator_code` (machine-readable) and `indicator_name` (human-readable).
 
