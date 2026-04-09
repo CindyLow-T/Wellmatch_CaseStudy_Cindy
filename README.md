@@ -22,6 +22,15 @@ This repository implements a small Python data service that:
 │   ├── test_transformations.py
 │   ├── test_wellbeing_analyzer.py
 │   └── test_wellbeing_processor.py
+├── output/
+│   ├── json/
+│   │   ├── wellbeing_analysis.json
+│   │   └── sample_analysis.json
+│   └── csv/
+│       ├── yearly_indicator_summary.csv
+│       ├── country_growth.csv
+│       ├── latest_country_rankings.csv
+│       └── missingness_report.csv
 ├── .env.example
 ├── requirements.txt
 └── README.md
