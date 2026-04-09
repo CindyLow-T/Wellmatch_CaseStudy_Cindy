@@ -1,0 +1,27 @@
+config_key,indicator_code,indicator_name,latest_year,rank_group,rank,country_code,value
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,2024,top,1,USA,84534.0408
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,2024,top,2,SWE,57117.4877
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,2024,top,3,DEU,56103.7323
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,2024,top,4,GBR,53246.3676
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,2024,top,5,CHN,13303.1482
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,2024,bottom,1,CHN,13303.1482
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,2024,bottom,2,GBR,53246.3676
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,2024,bottom,3,DEU,56103.7323
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,2024,bottom,4,SWE,57117.4877
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,2024,bottom,5,USA,84534.0408
+health_expenditure_per_capita,WB_WDI_SH_XPD_CHEX_PC_CD,Health Expenditure Per Capita,2024,top,1,DEU,6849.2637
+health_expenditure_per_capita,WB_WDI_SH_XPD_CHEX_PC_CD,Health Expenditure Per Capita,2024,top,2,SWE,6484.7646
+health_expenditure_per_capita,WB_WDI_SH_XPD_CHEX_PC_CD,Health Expenditure Per Capita,2024,top,3,GBR,5860.2393
+health_expenditure_per_capita,WB_WDI_SH_XPD_CHEX_PC_CD,Health Expenditure Per Capita,2024,bottom,1,GBR,5860.2393
+health_expenditure_per_capita,WB_WDI_SH_XPD_CHEX_PC_CD,Health Expenditure Per Capita,2024,bottom,2,SWE,6484.7646
+health_expenditure_per_capita,WB_WDI_SH_XPD_CHEX_PC_CD,Health Expenditure Per Capita,2024,bottom,3,DEU,6849.2637
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,2023,top,1,SWE,83.3098
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,2023,top,2,GBR,81.2381
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,2023,top,3,DEU,80.5415
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,2023,top,4,USA,78.3854
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,2023,top,5,CHN,77.953
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,2023,bottom,1,CHN,77.953
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,2023,bottom,2,USA,78.3854
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,2023,bottom,3,DEU,80.5415
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,2023,bottom,4,GBR,81.2381
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,2023,bottom,5,SWE,83.3098

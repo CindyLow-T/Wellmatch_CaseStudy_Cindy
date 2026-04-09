@@ -1,0 +1,21 @@
+config_key,indicator_code,indicator_name,max_value,mean_value,median_value,min_value,observation_count,year
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,62499.8744,43844.632,48916.1687,10085.6638,5,2018
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,64746.4507,43510.6564,47656.1997,10342.901,5,2019
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,63515.9492,42983.9077,47394.8734,10627.4638,5,2020
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,70205.0509,48756.1302,52349.246,12887.4357,5,2021
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,76657.2489,48405.6613,50506.518,12970.6056,5,2022
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,81032.2621,50730.9922,54776.7668,12951.1782,5,2023
+gdp_per_capita,WB_WDI_NY_GDP_PCAP_CD,GDP Per Capita,84534.0408,52860.9553,56103.7323,13303.1482,5,2024
+health_expenditure_per_capita,WB_WDI_SH_XPD_CHEX_PC_CD,Health Expenditure Per Capita,10180.4824,5286.7829,5473.5571,504.1098,5,2018
+health_expenditure_per_capita,WB_WDI_SH_XPD_CHEX_PC_CD,Health Expenditure Per Capita,10550.2207,5296.9215,5447.3179,538.9916,5,2019
+health_expenditure_per_capita,WB_WDI_SH_XPD_CHEX_PC_CD,Health Expenditure Per Capita,11648.4951,5806.9526,5906.8062,582.9509,5,2020
+health_expenditure_per_capita,WB_WDI_SH_XPD_CHEX_PC_CD,Health Expenditure Per Capita,12080.0732,6388.7037,6653.5835,670.259,5,2021
+health_expenditure_per_capita,WB_WDI_SH_XPD_CHEX_PC_CD,Health Expenditure Per Capita,12586.1963,6140.3969,6022.3926,755.436,5,2022
+health_expenditure_per_capita,WB_WDI_SH_XPD_CHEX_PC_CD,Health Expenditure Per Capita,13473.1934,6448.9189,6206.2305,763.3776,5,2023
+health_expenditure_per_capita,WB_WDI_SH_XPD_CHEX_PC_CD,Health Expenditure Per Capita,6849.2637,6398.0892,6484.7646,5860.2393,3,2024
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,82.5585,80.2111,80.8927,77.709,5,2018
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,83.1098,80.4999,81.2927,77.94,5,2019
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,82.3561,79.7458,80.3318,76.9805,5,2020
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,83.0561,79.788,80.6473,76.3293,5,2021
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,83.0585,80.0628,80.608,77.4341,5,2022
+life_expectancy,WB_WDI_SP_DYN_LE00_IN,Life Expectancy,83.3098,80.2855,80.5415,77.953,5,2023

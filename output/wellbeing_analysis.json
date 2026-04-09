@@ -1,0 +1,1800 @@
+{
+  "analysis": {
+    "country_growth": [
+      {
+        "absolute_change": 257.2371,
+        "config_key": "gdp_per_capita",
+        "current_value": 10342.901,
+        "from_year": 2018,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 2.5505,
+        "previous_value": 10085.6638,
+        "ref_area": "CHN",
+        "to_year": 2019,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 284.5628,
+        "config_key": "gdp_per_capita",
+        "current_value": 10627.4638,
+        "from_year": 2019,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 2.7513,
+        "previous_value": 10342.901,
+        "ref_area": "CHN",
+        "to_year": 2020,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 2259.9719,
+        "config_key": "gdp_per_capita",
+        "current_value": 12887.4357,
+        "from_year": 2020,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 21.2654,
+        "previous_value": 10627.4638,
+        "ref_area": "CHN",
+        "to_year": 2021,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 83.1699,
+        "config_key": "gdp_per_capita",
+        "current_value": 12970.6056,
+        "from_year": 2021,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 0.6454,
+        "previous_value": 12887.4357,
+        "ref_area": "CHN",
+        "to_year": 2022,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -19.4274,
+        "config_key": "gdp_per_capita",
+        "current_value": 12951.1782,
+        "from_year": 2022,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": -0.1498,
+        "previous_value": 12970.6056,
+        "ref_area": "CHN",
+        "to_year": 2023,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 351.9699,
+        "config_key": "gdp_per_capita",
+        "current_value": 13303.1482,
+        "from_year": 2023,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 2.7177,
+        "previous_value": 12951.1782,
+        "ref_area": "CHN",
+        "to_year": 2024,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -1259.9689,
+        "config_key": "gdp_per_capita",
+        "current_value": 47656.1997,
+        "from_year": 2018,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": -2.5758,
+        "previous_value": 48916.1687,
+        "ref_area": "DEU",
+        "to_year": 2019,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -261.3263,
+        "config_key": "gdp_per_capita",
+        "current_value": 47394.8734,
+        "from_year": 2019,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": -0.5484,
+        "previous_value": 47656.1997,
+        "ref_area": "DEU",
+        "to_year": 2020,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 4954.3725,
+        "config_key": "gdp_per_capita",
+        "current_value": 52349.246,
+        "from_year": 2020,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 10.4534,
+        "previous_value": 47394.8734,
+        "ref_area": "DEU",
+        "to_year": 2021,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -1842.728,
+        "config_key": "gdp_per_capita",
+        "current_value": 50506.518,
+        "from_year": 2021,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": -3.5201,
+        "previous_value": 52349.246,
+        "ref_area": "DEU",
+        "to_year": 2022,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 4270.2489,
+        "config_key": "gdp_per_capita",
+        "current_value": 54776.7668,
+        "from_year": 2022,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 8.4548,
+        "previous_value": 50506.518,
+        "ref_area": "DEU",
+        "to_year": 2023,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 1326.9655,
+        "config_key": "gdp_per_capita",
+        "current_value": 56103.7323,
+        "from_year": 2023,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 2.4225,
+        "previous_value": 54776.7668,
+        "ref_area": "DEU",
+        "to_year": 2024,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -544.2565,
+        "config_key": "gdp_per_capita",
+        "current_value": 43158.7411,
+        "from_year": 2018,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": -1.2454,
+        "previous_value": 43702.9976,
+        "ref_area": "GBR",
+        "to_year": 2019,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -2346.0617,
+        "config_key": "gdp_per_capita",
+        "current_value": 40812.6795,
+        "from_year": 2019,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": -5.4359,
+        "previous_value": 43158.7411,
+        "ref_area": "GBR",
+        "to_year": 2020,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 6878.6974,
+        "config_key": "gdp_per_capita",
+        "current_value": 47691.3769,
+        "from_year": 2020,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 16.8543,
+        "previous_value": 40812.6795,
+        "ref_area": "GBR",
+        "to_year": 2021,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -634.3337,
+        "config_key": "gdp_per_capita",
+        "current_value": 47057.0432,
+        "from_year": 2021,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": -1.3301,
+        "previous_value": 47691.3769,
+        "ref_area": "GBR",
+        "to_year": 2022,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 2887.427,
+        "config_key": "gdp_per_capita",
+        "current_value": 49944.4702,
+        "from_year": 2022,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 6.136,
+        "previous_value": 47057.0432,
+        "ref_area": "GBR",
+        "to_year": 2023,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 3301.8974,
+        "config_key": "gdp_per_capita",
+        "current_value": 53246.3676,
+        "from_year": 2023,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 6.6111,
+        "previous_value": 49944.4702,
+        "ref_area": "GBR",
+        "to_year": 2024,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -2369.4662,
+        "config_key": "gdp_per_capita",
+        "current_value": 51648.9893,
+        "from_year": 2018,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": -4.3864,
+        "previous_value": 54018.4554,
+        "ref_area": "SWE",
+        "to_year": 2019,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 919.5834,
+        "config_key": "gdp_per_capita",
+        "current_value": 52568.5727,
+        "from_year": 2019,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 1.7804,
+        "previous_value": 51648.9893,
+        "ref_area": "SWE",
+        "to_year": 2020,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 8078.9689,
+        "config_key": "gdp_per_capita",
+        "current_value": 60647.5416,
+        "from_year": 2020,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 15.3684,
+        "previous_value": 52568.5727,
+        "ref_area": "SWE",
+        "to_year": 2021,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -5810.6509,
+        "config_key": "gdp_per_capita",
+        "current_value": 54836.8907,
+        "from_year": 2021,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": -9.581,
+        "previous_value": 60647.5416,
+        "ref_area": "SWE",
+        "to_year": 2022,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 113.3927,
+        "config_key": "gdp_per_capita",
+        "current_value": 54950.2835,
+        "from_year": 2022,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 0.2068,
+        "previous_value": 54836.8907,
+        "ref_area": "SWE",
+        "to_year": 2023,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 2167.2043,
+        "config_key": "gdp_per_capita",
+        "current_value": 57117.4877,
+        "from_year": 2023,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 3.9439,
+        "previous_value": 54950.2835,
+        "ref_area": "SWE",
+        "to_year": 2024,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 2246.5762,
+        "config_key": "gdp_per_capita",
+        "current_value": 64746.4507,
+        "from_year": 2018,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 3.5945,
+        "previous_value": 62499.8744,
+        "ref_area": "USA",
+        "to_year": 2019,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -1230.5015,
+        "config_key": "gdp_per_capita",
+        "current_value": 63515.9492,
+        "from_year": 2019,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": -1.9005,
+        "previous_value": 64746.4507,
+        "ref_area": "USA",
+        "to_year": 2020,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 6689.1017,
+        "config_key": "gdp_per_capita",
+        "current_value": 70205.0509,
+        "from_year": 2020,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 10.5314,
+        "previous_value": 63515.9492,
+        "ref_area": "USA",
+        "to_year": 2021,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 6452.198,
+        "config_key": "gdp_per_capita",
+        "current_value": 76657.2489,
+        "from_year": 2021,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 9.1905,
+        "previous_value": 70205.0509,
+        "ref_area": "USA",
+        "to_year": 2022,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 4375.0132,
+        "config_key": "gdp_per_capita",
+        "current_value": 81032.2621,
+        "from_year": 2022,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 5.7072,
+        "previous_value": 76657.2489,
+        "ref_area": "USA",
+        "to_year": 2023,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 3501.7787,
+        "config_key": "gdp_per_capita",
+        "current_value": 84534.0408,
+        "from_year": 2023,
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "percent_change": 4.3215,
+        "previous_value": 81032.2621,
+        "ref_area": "USA",
+        "to_year": 2024,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 34.8818,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 538.9916,
+        "from_year": 2018,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 6.9195,
+        "previous_value": 504.1098,
+        "ref_area": "CHN",
+        "to_year": 2019,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 43.9594,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 582.9509,
+        "from_year": 2019,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 8.1559,
+        "previous_value": 538.9916,
+        "ref_area": "CHN",
+        "to_year": 2020,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 87.308,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 670.259,
+        "from_year": 2020,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 14.9769,
+        "previous_value": 582.9509,
+        "ref_area": "CHN",
+        "to_year": 2021,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 85.177,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 755.436,
+        "from_year": 2021,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 12.7081,
+        "previous_value": 670.259,
+        "ref_area": "CHN",
+        "to_year": 2022,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 7.9417,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 763.3776,
+        "from_year": 2022,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 1.0513,
+        "previous_value": 755.436,
+        "ref_area": "CHN",
+        "to_year": 2023,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -26.2393,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 5447.3179,
+        "from_year": 2018,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": -0.4794,
+        "previous_value": 5473.5571,
+        "ref_area": "DEU",
+        "to_year": 2019,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 459.4883,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 5906.8062,
+        "from_year": 2019,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 8.4351,
+        "previous_value": 5447.3179,
+        "ref_area": "DEU",
+        "to_year": 2020,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 746.7773,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 6653.5835,
+        "from_year": 2020,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 12.6427,
+        "previous_value": 5906.8062,
+        "ref_area": "DEU",
+        "to_year": 2021,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -427.4414,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 6226.1421,
+        "from_year": 2021,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": -6.4242,
+        "previous_value": 6653.5835,
+        "ref_area": "DEU",
+        "to_year": 2022,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 168.4805,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 6394.6226,
+        "from_year": 2022,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 2.706,
+        "previous_value": 6226.1421,
+        "ref_area": "DEU",
+        "to_year": 2023,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 454.6411,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 6849.2637,
+        "from_year": 2023,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 7.1097,
+        "previous_value": 6394.6226,
+        "ref_area": "DEU",
+        "to_year": 2024,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 26.4023,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 4260.0322,
+        "from_year": 2018,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 0.6236,
+        "previous_value": 4233.6299,
+        "ref_area": "GBR",
+        "to_year": 2019,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 605.9458,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 4865.978,
+        "from_year": 2019,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 14.224,
+        "previous_value": 4260.0322,
+        "ref_area": "GBR",
+        "to_year": 2020,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 779.4233,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 5645.4014,
+        "from_year": 2020,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 16.0178,
+        "previous_value": 4865.978,
+        "ref_area": "GBR",
+        "to_year": 2021,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -533.584,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 5111.8174,
+        "from_year": 2021,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": -9.4517,
+        "previous_value": 5645.4014,
+        "ref_area": "GBR",
+        "to_year": 2022,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 295.353,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 5407.1704,
+        "from_year": 2022,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 5.7778,
+        "previous_value": 5111.8174,
+        "ref_area": "GBR",
+        "to_year": 2023,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 453.0688,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 5860.2393,
+        "from_year": 2023,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 8.379,
+        "previous_value": 5407.1704,
+        "ref_area": "GBR",
+        "to_year": 2024,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -354.0903,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 5688.0449,
+        "from_year": 2018,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": -5.8604,
+        "previous_value": 6042.1353,
+        "ref_area": "SWE",
+        "to_year": 2019,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 342.4878,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 6030.5327,
+        "from_year": 2019,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 6.0212,
+        "previous_value": 5688.0449,
+        "ref_area": "SWE",
+        "to_year": 2020,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 863.6689,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 6894.2017,
+        "from_year": 2020,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 14.3216,
+        "previous_value": 6030.5327,
+        "ref_area": "SWE",
+        "to_year": 2021,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -871.8091,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 6022.3926,
+        "from_year": 2021,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": -12.6455,
+        "previous_value": 6894.2017,
+        "ref_area": "SWE",
+        "to_year": 2022,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 183.8379,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 6206.2305,
+        "from_year": 2022,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 3.0526,
+        "previous_value": 6022.3926,
+        "ref_area": "SWE",
+        "to_year": 2023,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 278.5342,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 6484.7646,
+        "from_year": 2023,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 4.488,
+        "previous_value": 6206.2305,
+        "ref_area": "SWE",
+        "to_year": 2024,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 369.7383,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 10550.2207,
+        "from_year": 2018,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 3.6318,
+        "previous_value": 10180.4824,
+        "ref_area": "USA",
+        "to_year": 2019,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 1098.2744,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 11648.4951,
+        "from_year": 2019,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 10.41,
+        "previous_value": 10550.2207,
+        "ref_area": "USA",
+        "to_year": 2020,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 431.5781,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 12080.0732,
+        "from_year": 2020,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 3.705,
+        "previous_value": 11648.4951,
+        "ref_area": "USA",
+        "to_year": 2021,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 506.123,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 12586.1963,
+        "from_year": 2021,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 4.1897,
+        "previous_value": 12080.0732,
+        "ref_area": "USA",
+        "to_year": 2022,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 886.9971,
+        "config_key": "health_expenditure_per_capita",
+        "current_value": 13473.1934,
+        "from_year": 2022,
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "percent_change": 7.0474,
+        "previous_value": 12586.1963,
+        "ref_area": "USA",
+        "to_year": 2023,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 0.231,
+        "config_key": "life_expectancy",
+        "current_value": 77.94,
+        "from_year": 2018,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 0.2973,
+        "previous_value": 77.709,
+        "ref_area": "CHN",
+        "to_year": 2019,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 0.079,
+        "config_key": "life_expectancy",
+        "current_value": 78.019,
+        "from_year": 2019,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 0.1014,
+        "previous_value": 77.94,
+        "ref_area": "CHN",
+        "to_year": 2020,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 0.098,
+        "config_key": "life_expectancy",
+        "current_value": 78.117,
+        "from_year": 2020,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 0.1256,
+        "previous_value": 78.019,
+        "ref_area": "CHN",
+        "to_year": 2021,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 0.085,
+        "config_key": "life_expectancy",
+        "current_value": 78.202,
+        "from_year": 2021,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 0.1088,
+        "previous_value": 78.117,
+        "ref_area": "CHN",
+        "to_year": 2022,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -0.249,
+        "config_key": "life_expectancy",
+        "current_value": 77.953,
+        "from_year": 2022,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": -0.3184,
+        "previous_value": 78.202,
+        "ref_area": "CHN",
+        "to_year": 2023,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 0.4,
+        "config_key": "life_expectancy",
+        "current_value": 81.2927,
+        "from_year": 2018,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 0.4945,
+        "previous_value": 80.8927,
+        "ref_area": "DEU",
+        "to_year": 2019,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -0.2512,
+        "config_key": "life_expectancy",
+        "current_value": 81.0415,
+        "from_year": 2019,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": -0.309,
+        "previous_value": 81.2927,
+        "ref_area": "DEU",
+        "to_year": 2020,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -0.2512,
+        "config_key": "life_expectancy",
+        "current_value": 80.7902,
+        "from_year": 2020,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": -0.31,
+        "previous_value": 81.0415,
+        "ref_area": "DEU",
+        "to_year": 2021,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -0.1822,
+        "config_key": "life_expectancy",
+        "current_value": 80.608,
+        "from_year": 2021,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": -0.2255,
+        "previous_value": 80.7902,
+        "ref_area": "DEU",
+        "to_year": 2022,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -0.0666,
+        "config_key": "life_expectancy",
+        "current_value": 80.5415,
+        "from_year": 2022,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": -0.0826,
+        "previous_value": 80.608,
+        "ref_area": "DEU",
+        "to_year": 2023,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 0.113,
+        "config_key": "life_expectancy",
+        "current_value": 81.3691,
+        "from_year": 2018,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 0.1391,
+        "previous_value": 81.2561,
+        "ref_area": "GBR",
+        "to_year": 2019,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -1.0374,
+        "config_key": "life_expectancy",
+        "current_value": 80.3318,
+        "from_year": 2019,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": -1.2749,
+        "previous_value": 81.3691,
+        "ref_area": "GBR",
+        "to_year": 2020,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 0.3156,
+        "config_key": "life_expectancy",
+        "current_value": 80.6473,
+        "from_year": 2020,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 0.3928,
+        "previous_value": 80.3318,
+        "ref_area": "GBR",
+        "to_year": 2021,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 0.3639,
+        "config_key": "life_expectancy",
+        "current_value": 81.0112,
+        "from_year": 2021,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 0.4512,
+        "previous_value": 80.6473,
+        "ref_area": "GBR",
+        "to_year": 2022,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 0.2269,
+        "config_key": "life_expectancy",
+        "current_value": 81.2381,
+        "from_year": 2022,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 0.2801,
+        "previous_value": 81.0112,
+        "ref_area": "GBR",
+        "to_year": 2023,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 0.5512,
+        "config_key": "life_expectancy",
+        "current_value": 83.1098,
+        "from_year": 2018,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 0.6677,
+        "previous_value": 82.5585,
+        "ref_area": "SWE",
+        "to_year": 2019,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -0.7537,
+        "config_key": "life_expectancy",
+        "current_value": 82.3561,
+        "from_year": 2019,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": -0.9068,
+        "previous_value": 83.1098,
+        "ref_area": "SWE",
+        "to_year": 2020,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 0.7,
+        "config_key": "life_expectancy",
+        "current_value": 83.0561,
+        "from_year": 2020,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 0.85,
+        "previous_value": 82.3561,
+        "ref_area": "SWE",
+        "to_year": 2021,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 0.0024,
+        "config_key": "life_expectancy",
+        "current_value": 83.0585,
+        "from_year": 2021,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 0.0029,
+        "previous_value": 83.0561,
+        "ref_area": "SWE",
+        "to_year": 2022,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 0.2512,
+        "config_key": "life_expectancy",
+        "current_value": 83.3098,
+        "from_year": 2022,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 0.3025,
+        "previous_value": 83.0585,
+        "ref_area": "SWE",
+        "to_year": 2023,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 0.1488,
+        "config_key": "life_expectancy",
+        "current_value": 78.7878,
+        "from_year": 2018,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 0.1892,
+        "previous_value": 78.639,
+        "ref_area": "USA",
+        "to_year": 2019,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -1.8073,
+        "config_key": "life_expectancy",
+        "current_value": 76.9805,
+        "from_year": 2019,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": -2.2939,
+        "previous_value": 78.7878,
+        "ref_area": "USA",
+        "to_year": 2020,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": -0.6512,
+        "config_key": "life_expectancy",
+        "current_value": 76.3293,
+        "from_year": 2020,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": -0.846,
+        "previous_value": 76.9805,
+        "ref_area": "USA",
+        "to_year": 2021,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 1.1049,
+        "config_key": "life_expectancy",
+        "current_value": 77.4341,
+        "from_year": 2021,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 1.4475,
+        "previous_value": 76.3293,
+        "ref_area": "USA",
+        "to_year": 2022,
+        "year_gap": 1
+      },
+      {
+        "absolute_change": 0.9512,
+        "config_key": "life_expectancy",
+        "current_value": 78.3854,
+        "from_year": 2022,
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "percent_change": 1.2284,
+        "previous_value": 77.4341,
+        "ref_area": "USA",
+        "to_year": 2023,
+        "year_gap": 1
+      }
+    ],
+    "latest_country_rankings": [
+      {
+        "bottom_countries": [
+          {
+            "ref_area": "CHN",
+            "value": 13303.1482
+          },
+          {
+            "ref_area": "GBR",
+            "value": 53246.3676
+          },
+          {
+            "ref_area": "DEU",
+            "value": 56103.7323
+          },
+          {
+            "ref_area": "SWE",
+            "value": 57117.4877
+          },
+          {
+            "ref_area": "USA",
+            "value": 84534.0408
+          }
+        ],
+        "config_key": "gdp_per_capita",
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "latest_year": 2024,
+        "top_countries": [
+          {
+            "ref_area": "USA",
+            "value": 84534.0408
+          },
+          {
+            "ref_area": "SWE",
+            "value": 57117.4877
+          },
+          {
+            "ref_area": "DEU",
+            "value": 56103.7323
+          },
+          {
+            "ref_area": "GBR",
+            "value": 53246.3676
+          },
+          {
+            "ref_area": "CHN",
+            "value": 13303.1482
+          }
+        ]
+      },
+      {
+        "bottom_countries": [
+          {
+            "ref_area": "GBR",
+            "value": 5860.2393
+          },
+          {
+            "ref_area": "SWE",
+            "value": 6484.7646
+          },
+          {
+            "ref_area": "DEU",
+            "value": 6849.2637
+          }
+        ],
+        "config_key": "health_expenditure_per_capita",
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "latest_year": 2024,
+        "top_countries": [
+          {
+            "ref_area": "DEU",
+            "value": 6849.2637
+          },
+          {
+            "ref_area": "SWE",
+            "value": 6484.7646
+          },
+          {
+            "ref_area": "GBR",
+            "value": 5860.2393
+          }
+        ]
+      },
+      {
+        "bottom_countries": [
+          {
+            "ref_area": "CHN",
+            "value": 77.953
+          },
+          {
+            "ref_area": "USA",
+            "value": 78.3854
+          },
+          {
+            "ref_area": "DEU",
+            "value": 80.5415
+          },
+          {
+            "ref_area": "GBR",
+            "value": 81.2381
+          },
+          {
+            "ref_area": "SWE",
+            "value": 83.3098
+          }
+        ],
+        "config_key": "life_expectancy",
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "latest_year": 2023,
+        "top_countries": [
+          {
+            "ref_area": "SWE",
+            "value": 83.3098
+          },
+          {
+            "ref_area": "GBR",
+            "value": 81.2381
+          },
+          {
+            "ref_area": "DEU",
+            "value": 80.5415
+          },
+          {
+            "ref_area": "USA",
+            "value": 78.3854
+          },
+          {
+            "ref_area": "CHN",
+            "value": 77.953
+          }
+        ]
+      }
+    ],
+    "yearly_indicator_summary": [
+      {
+        "config_key": "gdp_per_capita",
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "max_value": 62499.8744,
+        "mean_value": 43844.632,
+        "median_value": 48916.1687,
+        "min_value": 10085.6638,
+        "observation_count": 5,
+        "year": 2018
+      },
+      {
+        "config_key": "gdp_per_capita",
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "max_value": 64746.4507,
+        "mean_value": 43510.6564,
+        "median_value": 47656.1997,
+        "min_value": 10342.901,
+        "observation_count": 5,
+        "year": 2019
+      },
+      {
+        "config_key": "gdp_per_capita",
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "max_value": 63515.9492,
+        "mean_value": 42983.9077,
+        "median_value": 47394.8734,
+        "min_value": 10627.4638,
+        "observation_count": 5,
+        "year": 2020
+      },
+      {
+        "config_key": "gdp_per_capita",
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "max_value": 70205.0509,
+        "mean_value": 48756.1302,
+        "median_value": 52349.246,
+        "min_value": 12887.4357,
+        "observation_count": 5,
+        "year": 2021
+      },
+      {
+        "config_key": "gdp_per_capita",
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "max_value": 76657.2489,
+        "mean_value": 48405.6613,
+        "median_value": 50506.518,
+        "min_value": 12970.6056,
+        "observation_count": 5,
+        "year": 2022
+      },
+      {
+        "config_key": "gdp_per_capita",
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "max_value": 81032.2621,
+        "mean_value": 50730.9922,
+        "median_value": 54776.7668,
+        "min_value": 12951.1782,
+        "observation_count": 5,
+        "year": 2023
+      },
+      {
+        "config_key": "gdp_per_capita",
+        "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+        "indicator_name": "GDP Per Capita",
+        "max_value": 84534.0408,
+        "mean_value": 52860.9553,
+        "median_value": 56103.7323,
+        "min_value": 13303.1482,
+        "observation_count": 5,
+        "year": 2024
+      },
+      {
+        "config_key": "health_expenditure_per_capita",
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "max_value": 10180.4824,
+        "mean_value": 5286.7829,
+        "median_value": 5473.5571,
+        "min_value": 504.1098,
+        "observation_count": 5,
+        "year": 2018
+      },
+      {
+        "config_key": "health_expenditure_per_capita",
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "max_value": 10550.2207,
+        "mean_value": 5296.9215,
+        "median_value": 5447.3179,
+        "min_value": 538.9916,
+        "observation_count": 5,
+        "year": 2019
+      },
+      {
+        "config_key": "health_expenditure_per_capita",
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "max_value": 11648.4951,
+        "mean_value": 5806.9526,
+        "median_value": 5906.8062,
+        "min_value": 582.9509,
+        "observation_count": 5,
+        "year": 2020
+      },
+      {
+        "config_key": "health_expenditure_per_capita",
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "max_value": 12080.0732,
+        "mean_value": 6388.7037,
+        "median_value": 6653.5835,
+        "min_value": 670.259,
+        "observation_count": 5,
+        "year": 2021
+      },
+      {
+        "config_key": "health_expenditure_per_capita",
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "max_value": 12586.1963,
+        "mean_value": 6140.3969,
+        "median_value": 6022.3926,
+        "min_value": 755.436,
+        "observation_count": 5,
+        "year": 2022
+      },
+      {
+        "config_key": "health_expenditure_per_capita",
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "max_value": 13473.1934,
+        "mean_value": 6448.9189,
+        "median_value": 6206.2305,
+        "min_value": 763.3776,
+        "observation_count": 5,
+        "year": 2023
+      },
+      {
+        "config_key": "health_expenditure_per_capita",
+        "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "indicator_name": "Health Expenditure Per Capita",
+        "max_value": 6849.2637,
+        "mean_value": 6398.0892,
+        "median_value": 6484.7646,
+        "min_value": 5860.2393,
+        "observation_count": 3,
+        "year": 2024
+      },
+      {
+        "config_key": "life_expectancy",
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "max_value": 82.5585,
+        "mean_value": 80.2111,
+        "median_value": 80.8927,
+        "min_value": 77.709,
+        "observation_count": 5,
+        "year": 2018
+      },
+      {
+        "config_key": "life_expectancy",
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "max_value": 83.1098,
+        "mean_value": 80.4999,
+        "median_value": 81.2927,
+        "min_value": 77.94,
+        "observation_count": 5,
+        "year": 2019
+      },
+      {
+        "config_key": "life_expectancy",
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "max_value": 82.3561,
+        "mean_value": 79.7458,
+        "median_value": 80.3318,
+        "min_value": 76.9805,
+        "observation_count": 5,
+        "year": 2020
+      },
+      {
+        "config_key": "life_expectancy",
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "max_value": 83.0561,
+        "mean_value": 79.788,
+        "median_value": 80.6473,
+        "min_value": 76.3293,
+        "observation_count": 5,
+        "year": 2021
+      },
+      {
+        "config_key": "life_expectancy",
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "max_value": 83.0585,
+        "mean_value": 80.0628,
+        "median_value": 80.608,
+        "min_value": 77.4341,
+        "observation_count": 5,
+        "year": 2022
+      },
+      {
+        "config_key": "life_expectancy",
+        "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+        "indicator_name": "Life Expectancy",
+        "max_value": 83.3098,
+        "mean_value": 80.2855,
+        "median_value": 80.5415,
+        "min_value": 77.953,
+        "observation_count": 5,
+        "year": 2023
+      }
+    ]
+  },
+  "generated_at_utc": "2026-04-07T18:54:38.925538+00:00",
+  "missingness_report": [
+    {
+      "available_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "complete_for_requested_window": true,
+      "config_key": "gdp_per_capita",
+      "country_code": "CHN",
+      "country_name": "China",
+      "country_role": "Rapidly developing comparator",
+      "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+      "indicator_name": "GDP Per Capita",
+      "latest_available_year": 2024,
+      "missing_years": []
+    },
+    {
+      "available_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "complete_for_requested_window": true,
+      "config_key": "gdp_per_capita",
+      "country_code": "DEU",
+      "country_name": "Germany",
+      "country_role": "European comparator",
+      "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+      "indicator_name": "GDP Per Capita",
+      "latest_available_year": 2024,
+      "missing_years": []
+    },
+    {
+      "available_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "complete_for_requested_window": true,
+      "config_key": "gdp_per_capita",
+      "country_code": "GBR",
+      "country_name": "United Kingdom",
+      "country_role": "Primary focus",
+      "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+      "indicator_name": "GDP Per Capita",
+      "latest_available_year": 2024,
+      "missing_years": []
+    },
+    {
+      "available_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "complete_for_requested_window": true,
+      "config_key": "gdp_per_capita",
+      "country_code": "SWE",
+      "country_name": "Sweden",
+      "country_role": "Welfare model comparator",
+      "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+      "indicator_name": "GDP Per Capita",
+      "latest_available_year": 2024,
+      "missing_years": []
+    },
+    {
+      "available_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "complete_for_requested_window": true,
+      "config_key": "gdp_per_capita",
+      "country_code": "USA",
+      "country_name": "United States",
+      "country_role": "High-income benchmark",
+      "indicator_code": "WB_WDI_NY_GDP_PCAP_CD",
+      "indicator_name": "GDP Per Capita",
+      "latest_available_year": 2024,
+      "missing_years": []
+    },
+    {
+      "available_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "complete_for_requested_window": false,
+      "config_key": "health_expenditure_per_capita",
+      "country_code": "CHN",
+      "country_name": "China",
+      "country_role": "Rapidly developing comparator",
+      "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+      "indicator_name": "Health Expenditure Per Capita",
+      "latest_available_year": 2023,
+      "missing_years": [
+        2024
+      ]
+    },
+    {
+      "available_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "complete_for_requested_window": true,
+      "config_key": "health_expenditure_per_capita",
+      "country_code": "DEU",
+      "country_name": "Germany",
+      "country_role": "European comparator",
+      "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+      "indicator_name": "Health Expenditure Per Capita",
+      "latest_available_year": 2024,
+      "missing_years": []
+    },
+    {
+      "available_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "complete_for_requested_window": true,
+      "config_key": "health_expenditure_per_capita",
+      "country_code": "GBR",
+      "country_name": "United Kingdom",
+      "country_role": "Primary focus",
+      "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+      "indicator_name": "Health Expenditure Per Capita",
+      "latest_available_year": 2024,
+      "missing_years": []
+    },
+    {
+      "available_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "complete_for_requested_window": true,
+      "config_key": "health_expenditure_per_capita",
+      "country_code": "SWE",
+      "country_name": "Sweden",
+      "country_role": "Welfare model comparator",
+      "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+      "indicator_name": "Health Expenditure Per Capita",
+      "latest_available_year": 2024,
+      "missing_years": []
+    },
+    {
+      "available_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "complete_for_requested_window": false,
+      "config_key": "health_expenditure_per_capita",
+      "country_code": "USA",
+      "country_name": "United States",
+      "country_role": "High-income benchmark",
+      "indicator_code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+      "indicator_name": "Health Expenditure Per Capita",
+      "latest_available_year": 2023,
+      "missing_years": [
+        2024
+      ]
+    },
+    {
+      "available_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "complete_for_requested_window": false,
+      "config_key": "life_expectancy",
+      "country_code": "CHN",
+      "country_name": "China",
+      "country_role": "Rapidly developing comparator",
+      "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+      "indicator_name": "Life Expectancy",
+      "latest_available_year": 2023,
+      "missing_years": [
+        2024
+      ]
+    },
+    {
+      "available_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "complete_for_requested_window": false,
+      "config_key": "life_expectancy",
+      "country_code": "DEU",
+      "country_name": "Germany",
+      "country_role": "European comparator",
+      "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+      "indicator_name": "Life Expectancy",
+      "latest_available_year": 2023,
+      "missing_years": [
+        2024
+      ]
+    },
+    {
+      "available_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "complete_for_requested_window": false,
+      "config_key": "life_expectancy",
+      "country_code": "GBR",
+      "country_name": "United Kingdom",
+      "country_role": "Primary focus",
+      "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+      "indicator_name": "Life Expectancy",
+      "latest_available_year": 2023,
+      "missing_years": [
+        2024
+      ]
+    },
+    {
+      "available_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "complete_for_requested_window": false,
+      "config_key": "life_expectancy",
+      "country_code": "SWE",
+      "country_name": "Sweden",
+      "country_role": "Welfare model comparator",
+      "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+      "indicator_name": "Life Expectancy",
+      "latest_available_year": 2023,
+      "missing_years": [
+        2024
+      ]
+    },
+    {
+      "available_years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "complete_for_requested_window": false,
+      "config_key": "life_expectancy",
+      "country_code": "USA",
+      "country_name": "United States",
+      "country_role": "High-income benchmark",
+      "indicator_code": "WB_WDI_SP_DYN_LE00_IN",
+      "indicator_name": "Life Expectancy",
+      "latest_available_year": 2023,
+      "missing_years": [
+        2024
+      ]
+    }
+  ],
+  "notes": [
+    "7 indicator-country pairs are missing 2024.",
+    "Treat 2024 as latest available where present and use balanced-year comparisons where needed."
+  ],
+  "row_counts": {
+    "processed_rows": 98
+  },
+  "scope": {
+    "countries": {
+      "CHN": {
+        "name": "China",
+        "role": "Rapidly developing comparator"
+      },
+      "DEU": {
+        "name": "Germany",
+        "role": "European comparator"
+      },
+      "GBR": {
+        "name": "United Kingdom",
+        "role": "Primary focus"
+      },
+      "SWE": {
+        "name": "Sweden",
+        "role": "Welfare model comparator"
+      },
+      "USA": {
+        "name": "United States",
+        "role": "High-income benchmark"
+      }
+    },
+    "indicators": {
+      "gdp_per_capita": {
+        "code": "WB_WDI_NY_GDP_PCAP_CD",
+        "name": "GDP Per Capita"
+      },
+      "health_expenditure_per_capita": {
+        "code": "WB_WDI_SH_XPD_CHEX_PC_CD",
+        "name": "Health Expenditure Per Capita"
+      },
+      "life_expectancy": {
+        "code": "WB_WDI_SP_DYN_LE00_IN",
+        "name": "Life Expectancy"
+      }
+    },
+    "time_from": 2018,
+    "time_to": 2024
+  }
+}
